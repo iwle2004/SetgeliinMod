@@ -9,8 +9,16 @@ import About2 from "./components/About2";
 
 
 
+
+
+
 function App() {
+  const target = React.createRef();
+  
   return (
+    <>
+
+    
 
     <React.Fragment>
       <Navb />
@@ -18,7 +26,8 @@ function App() {
       <About />
       <About2 />
     </React.Fragment>
-
+  
+    </>
   );
 }
 

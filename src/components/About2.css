@@ -13,7 +13,12 @@
 }
 #about2-title {
     color: #10D397;
+    font-size: 52px;
+    text-align: center;
 }
 .box-container {
-    margin-top: 100px;
+    margin-top: 80px;
+}
+.box {
+    width: 33%;
 }
