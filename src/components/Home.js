@@ -2,8 +2,13 @@ import "./Home.css";
 import React from "react";
 import home from "../images/home.svg";
 
+
+
+
 function Home () {
+
     return (
+
     <section className="home">
         <div className="container">
             <div className="home-row">
@@ -20,6 +25,7 @@ function Home () {
             </div>
         </div>
     </section>
+    
     )
 }
 export default Home;
