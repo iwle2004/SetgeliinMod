@@ -4,7 +4,6 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Logo from '../images/logo.png'
 import "./Nav.css";
-import React from "react";
 
 const ReadingProgress = ({ target }) => {
   const [readingProgress, setReadingProgress] = React.useState(0);

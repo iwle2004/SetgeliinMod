@@ -15,8 +15,8 @@ function About2 () {
                     <br></br> ажилгаанууд</h1>
                 </div>
                 <div className="box-container">
-                    <CardGroup>
-                        <Card>
+                    <CardGroup className="cardCon">
+                        <Card className="cards">
                             <Card.Img variant="top" src={img2} />
                             <Card.Body>
                             <Card.Title>Card title</Card.Title>
@@ -26,7 +26,7 @@ function About2 () {
                             </Card.Text>
                             </Card.Body>
                         </Card>
-                        <Card>
+                        <Card className="cards">
                             <Card.Img variant="top" src={img2} />
                             <Card.Body>
                             <Card.Title>Card title</Card.Title>
@@ -36,17 +36,39 @@ function About2 () {
                             </Card.Text>
                             </Card.Body>
                         </Card>                    
-                            <Card>
-                                <Card.Img variant="top" src={img2} />
-                                <Card.Body>
-                                <Card.Title>Card title</Card.Title>
-                                <Card.Text>
-                                    This is a wider card with supporting text below as a natural lead-in
-                                    to additional content. This card has even longer content than the
-                                    first to show that equal height action.
-                                </Card.Text>
-                                </Card.Body>
-                            </Card>
+                        <Card className="cards">
+                            <Card.Img variant="top" src={img2} />
+                            <Card.Body>
+                            <Card.Title>Card title</Card.Title>
+                            <Card.Text>
+                                This is a wider card with supporting text below as a natural lead-in
+                                to additional content. This card has even longer content than the
+                                first to show that equal height action.
+                            </Card.Text>
+                            </Card.Body>
+                        </Card>
+                        <Card className="cards">
+                            <Card.Img variant="top" src={img2} />
+                            <Card.Body>
+                            <Card.Title>Card title</Card.Title>
+                            <Card.Text>
+                                This is a wider card with supporting text below as a natural lead-in
+                                to additional content. This card has even longer content than the
+                                first to show that equal height action.
+                            </Card.Text>
+                            </Card.Body>
+                        </Card>
+                        <Card className="cards">
+                            <Card.Img variant="top" src={img2} />
+                            <Card.Body>
+                            <Card.Title>Card title</Card.Title>
+                            <Card.Text>
+                                This is a wider card with supporting text below as a natural lead-in
+                                to additional content. This card has even longer content than the
+                                first to show that equal height action.
+                            </Card.Text>
+                            </Card.Body>
+                        </Card>
                     </CardGroup>
                 </div>
             </div>
