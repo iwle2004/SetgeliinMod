@@ -1,0 +1,30 @@
+#home-title {
+    color: #97999B;
+    font-size: 52px;
+}
+.home-1 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.home-2 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    @media (min-width: 900px) {
+.home {
+    margin-top: 110px;
+}
+}
+
+#home-title span {
+    color: #10D397;
+}
+.home-row {
+    display: flex;
+    flex-direction: row;
+}
