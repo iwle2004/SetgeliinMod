@@ -1,0 +1,19 @@
+
+    @media (min-width: 900px) {
+.about2 {
+    margin-top: 110px;
+}}
+.about2 {
+    padding-top: 110px;
+}
+.about2-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#about2-title {
+    color: #10D397;
+}
+.box-container {
+    margin-top: 100px;
+}
