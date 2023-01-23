@@ -1,6 +1,6 @@
 import "./About.css";
 import React from "react";
-import img from '../images/image 2.png'
+import img from '../images/image 1.png'
 
 
 function About () {
