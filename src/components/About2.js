@@ -17,17 +17,17 @@ function About2 () {
                 <br></br> ажилгаанууд</h1>
             </div>
             <div className="card-container">
-            <Row xs={1} md={3} className="g-4">
+            <Row id="card-cont" xs={1} md={3} className="g-4">
                 <Col>
                     <Card>
-                        <Card.Img className="img" variant="top" src={img2} />
+                        <Card.Img variant="top" src={img2} />
                         <Card.Body>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
                             This is a longer card with supporting text below as a natural
                             lead-in to additional content. This content is a little bit
                             longer.
-                        </Card.Text>
+                        </Card.Text> 
                         </Card.Body>
                     </Card>
                 </Col>

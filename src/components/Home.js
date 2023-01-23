@@ -3,7 +3,7 @@ import React from "react";
 import home from "../images/home.svg";
 
 
-
+ 
 
 function Home () {
 
@@ -11,7 +11,7 @@ function Home () {
 
     <section className="home">
         <div className="container">
-            <div className="home-row">
+            <div className="home-cont">
                 <div className="home-1">
                     <h1 id="home-title">
                         Эерэг өөрчлөлтөд хөтлөх
@@ -20,10 +20,10 @@ function Home () {
                     </h1>
                 </div>
                 <div className="home-2">
-                    <img src={home}></img>
+                    <img id="home-img" src={home}></img>
                 </div>
             </div>
-        </div>
+        </div> 
     </section>
     
     )

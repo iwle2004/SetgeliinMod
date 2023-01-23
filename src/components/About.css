@@ -17,7 +17,7 @@
     
     height: 100vh;
 }
-.about-row {
+.about-cont {
     display: flex;
     flex-direction: row;
 }
@@ -34,3 +34,49 @@
         color: #10D397;
 
 }
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .about-cont {
+        display: flex;
+        flex-direction: column;
+    }
+    .about-1 {
+        width: 100%;
+        height: 50%;
+    }
+    .about-2 {
+        width: 100%;
+        height: 50%;
+        padding-top: 40px;
+    }
+    #img-about {
+        width: 100%;
+    }
+    #about-text {
+        font-size: 20px;
+        
+    }
+  }
+  @media screen and (min-device-width: 768px) and (max-device-width: 1024px) { 
+    .about-cont {
+        display: flex;
+        flex-direction: column;
+    }
+    .about-1 {
+        width: 100%;
+        height: 50%;
+    }
+    .about-2 {
+        width: 100%;
+        height: 50%;
+        padding-top: 40px;
+    }
+    #about-text {
+        font-size: 38px;
+        
+    }
+    #about-title {
+        font-size: 50px;
+    }
+  }
