@@ -12,12 +12,10 @@
     flex-direction: column;
 }
 
-    @media (min-width: 900px) {
+ 
 .about {
-    margin-top: 110px;
-}}
-.about {
-    padding-top: 110px;
+    
+    height: 100vh;
 }
 .about-row {
     display: flex;
