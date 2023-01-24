@@ -1,19 +1,20 @@
 {
-  "main.css": "/SetgeliinMod/static/css/main.4be12319.chunk.css",
-  "main.js": "/SetgeliinMod/static/js/main.9b98a66d.chunk.js",
-  "main.js.map": "/SetgeliinMod/static/js/main.9b98a66d.chunk.js.map",
+  "main.css": "/SetgeliinMod/static/css/main.ae5612bd.chunk.css",
+  "main.js": "/SetgeliinMod/static/js/main.44107c71.chunk.js",
+  "main.js.map": "/SetgeliinMod/static/js/main.44107c71.chunk.js.map",
   "runtime~main.js": "/SetgeliinMod/static/js/runtime~main.8f8dfd23.js",
   "runtime~main.js.map": "/SetgeliinMod/static/js/runtime~main.8f8dfd23.js.map",
   "static/css/2.8d8faffb.chunk.css": "/SetgeliinMod/static/css/2.8d8faffb.chunk.css",
-  "static/js/2.165fa176.chunk.js": "/SetgeliinMod/static/js/2.165fa176.chunk.js",
-  "static/js/2.165fa176.chunk.js.map": "/SetgeliinMod/static/js/2.165fa176.chunk.js.map",
+  "static/js/2.a41cf618.chunk.js": "/SetgeliinMod/static/js/2.a41cf618.chunk.js",
+  "static/js/2.a41cf618.chunk.js.map": "/SetgeliinMod/static/js/2.a41cf618.chunk.js.map",
   "index.html": "/SetgeliinMod/index.html",
-  "precache-manifest.a2259470f4e70b3077de67e8ba290eeb.js": "/SetgeliinMod/precache-manifest.a2259470f4e70b3077de67e8ba290eeb.js",
+  "precache-manifest.926998059f37fe67041da5c1608f31a2.js": "/SetgeliinMod/precache-manifest.926998059f37fe67041da5c1608f31a2.js",
   "service-worker.js": "/SetgeliinMod/service-worker.js",
   "static/css/2.8d8faffb.chunk.css.map": "/SetgeliinMod/static/css/2.8d8faffb.chunk.css.map",
-  "static/css/main.4be12319.chunk.css.map": "/SetgeliinMod/static/css/main.4be12319.chunk.css.map",
+  "static/css/main.ae5612bd.chunk.css.map": "/SetgeliinMod/static/css/main.ae5612bd.chunk.css.map",
   "static/media/font-awesome.min.css": "/SetgeliinMod/static/media/fontawesome-webfont.fee66e71.woff",
   "static/media/home.svg": "/SetgeliinMod/static/media/home.f0d5a2c5.svg",
   "static/media/image 1.png": "/SetgeliinMod/static/media/image 1.87561d20.png",
-  "static/media/image 2.png": "/SetgeliinMod/static/media/image 2.84751a5f.png"
+  "static/media/image 2.png": "/SetgeliinMod/static/media/image 2.84751a5f.png",
+  "static/media/image 3.jpeg": "/SetgeliinMod/static/media/image 3.c4cb883b.jpeg"
 }
