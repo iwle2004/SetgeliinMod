@@ -13,7 +13,7 @@ function About2 () {
     <section className="about2">
         <div className="container">
             <div className="about2-title">
-                <h1 id="about2-title">Бидний хийсэн үйл
+                <h1 id="about2-title">Бидний хийх үйл
                 <br></br> ажилгаанууд</h1>
             </div>
             <div className="card-container">

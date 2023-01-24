@@ -5,6 +5,7 @@ import Nav from "./components/Nav";
 import Home from "./components/Home";
 import About from "./components/About";
 import About2 from "./components/About2";
+import About3 from "./components/About3";
 import Footer from "./components/Footer";
 
 
@@ -18,6 +19,7 @@ function App() {
       <Home />
       <About />
       <About2 />
+      <About3 />
       <Footer />
     </React.Fragment>
   

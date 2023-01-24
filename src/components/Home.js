@@ -10,7 +10,7 @@ function Home () {
     return (
 
     <section className="home">
-        <div id="cont" className="container">
+        <div id="" className="container">
             <div className="home-cont">
                 <div className="home-1">
                     <h1 id="home-title">
