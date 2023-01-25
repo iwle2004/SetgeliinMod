@@ -24,9 +24,9 @@ function Na() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="container-fluid">
           <Navbar.Collapse className="justify-content-end">
-                <Nav.Link to="Home.js"  >Нүүр</Nav.Link>
-                <Nav.Link to="About.js"  href="About.js">Бидний тухай</Nav.Link>
-                <Nav.Link to="Footer.js"  href="Footer.js">Холбогдох</Nav.Link>
+                <Nav.Link>Нүүр</Nav.Link>
+                <Nav.Link   href="About.js">Бидний тухай</Nav.Link>
+                <Nav.Link   href="Footer.js">Холбогдох</Nav.Link>
                 <Nav.Link  href="#link">Элсэх</Nav.Link>
                 <Nav.Link  href="#link">
                     <button type="button" class="btn btn-outline ">Donation</button>
