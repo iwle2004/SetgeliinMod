@@ -1,20 +1,22 @@
 {
-  "main.css": "/SetgeliinMod/static/css/main.ae5612bd.chunk.css",
-  "main.js": "/SetgeliinMod/static/js/main.44107c71.chunk.js",
-  "main.js.map": "/SetgeliinMod/static/js/main.44107c71.chunk.js.map",
-  "runtime~main.js": "/SetgeliinMod/static/js/runtime~main.8f8dfd23.js",
-  "runtime~main.js.map": "/SetgeliinMod/static/js/runtime~main.8f8dfd23.js.map",
-  "static/css/2.8d8faffb.chunk.css": "/SetgeliinMod/static/css/2.8d8faffb.chunk.css",
-  "static/js/2.a41cf618.chunk.js": "/SetgeliinMod/static/js/2.a41cf618.chunk.js",
-  "static/js/2.a41cf618.chunk.js.map": "/SetgeliinMod/static/js/2.a41cf618.chunk.js.map",
-  "index.html": "/SetgeliinMod/index.html",
-  "precache-manifest.c2604110d4cb112df3427600aeb2e8d3.js": "/SetgeliinMod/precache-manifest.c2604110d4cb112df3427600aeb2e8d3.js",
-  "service-worker.js": "/SetgeliinMod/service-worker.js",
-  "static/css/2.8d8faffb.chunk.css.map": "/SetgeliinMod/static/css/2.8d8faffb.chunk.css.map",
-  "static/css/main.ae5612bd.chunk.css.map": "/SetgeliinMod/static/css/main.ae5612bd.chunk.css.map",
-  "static/media/font-awesome.min.css": "/SetgeliinMod/static/media/fontawesome-webfont.fee66e71.woff",
-  "static/media/home.svg": "/SetgeliinMod/static/media/home.f0d5a2c5.svg",
-  "static/media/image 1.png": "/SetgeliinMod/static/media/image 1.87561d20.png",
-  "static/media/image 2.png": "/SetgeliinMod/static/media/image 2.84751a5f.png",
-  "static/media/image 3.jpeg": "/SetgeliinMod/static/media/image 3.c4cb883b.jpeg"
+  "files": {
+    "main.css": "/SetgeliinMod/static/css/main.ed9d7841.css",
+    "main.js": "/SetgeliinMod/static/js/main.40ab21eb.js",
+    "static/media/image 1.png": "/SetgeliinMod/static/media/image 1.2089e29eb84af7465f9f.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/SetgeliinMod/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/image 3.jpeg": "/SetgeliinMod/static/media/image 3.e09925b0e8f25687940a.jpeg",
+    "static/media/fontawesome-webfont.eot": "/SetgeliinMod/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/SetgeliinMod/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/image 2.png": "/SetgeliinMod/static/media/image 2.5478dbd6c13b059b1012.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/SetgeliinMod/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/SetgeliinMod/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/home.svg": "/SetgeliinMod/static/media/home.9ff7573e4c4a12d30105da3e0e069be4.svg",
+    "index.html": "/SetgeliinMod/index.html",
+    "main.ed9d7841.css.map": "/SetgeliinMod/static/css/main.ed9d7841.css.map",
+    "main.40ab21eb.js.map": "/SetgeliinMod/static/js/main.40ab21eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed9d7841.css",
+    "static/js/main.40ab21eb.js"
+  ]
 }
