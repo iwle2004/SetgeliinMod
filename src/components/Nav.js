@@ -8,6 +8,7 @@ import "./Nav.css";
 
 
 function Na() {
+  
 
 
   return (
@@ -23,9 +24,9 @@ function Na() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="container-fluid">
           <Navbar.Collapse className="justify-content-end">
-                <Nav.Link  href="#home">Нүүр</Nav.Link>
-                <Nav.Link  href="#link">Бидний тухай</Nav.Link>
-                <Nav.Link  href="#link">Холбогдох</Nav.Link>
+                <Nav.Link to="Home.js"  >Нүүр</Nav.Link>
+                <Nav.Link to="About.js"  href="About.js">Бидний тухай</Nav.Link>
+                <Nav.Link to="Footer.js"  href="Footer.js">Холбогдох</Nav.Link>
                 <Nav.Link  href="#link">Элсэх</Nav.Link>
                 <Nav.Link  href="#link">
                     <button type="button" class="btn btn-outline ">Donation</button>
