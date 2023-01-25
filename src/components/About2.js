@@ -19,7 +19,7 @@ function About2 () {
             <div className="card-container">
             <Row id="card-cont" xs={1} md={3} className="g-4">
                 <Col>
-                    <Card data-aos="fade-up-right"
+                    <Card data-aos="fade-down-right"
                     data-aos-duration="1000">
                         <Card.Img variant="top" src={img2} />
                         <Card.Body>
@@ -33,7 +33,7 @@ function About2 () {
                     </Card>
                 </Col>
                 <Col>
-                    <Card data-aos="fade-up"
+                    <Card data-aos="fade-down"
                     data-aos-duration="1000">
                         <Card.Img variant="top" src={img2} />
                         <Card.Body>
@@ -47,7 +47,7 @@ function About2 () {
                     </Card>
                 </Col>
                 <Col>
-                    <Card data-aos="fade-up-left"
+                    <Card data-aos="fade-down-left"
                          data-aos-duration="1000">
                         <Card.Img variant="top" src={img2} />
                         <Card.Body>
