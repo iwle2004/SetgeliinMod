@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SetgeliinMod/static/css/main.ed9d7841.css",
+    "main.css": "/SetgeliinMod/static/css/main.7fa7ffaf.css",
     "main.js": "/SetgeliinMod/static/js/main.43b05a33.js",
     "static/media/image 1.png": "/SetgeliinMod/static/media/image 1.2089e29eb84af7465f9f.png",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/SetgeliinMod/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
@@ -12,11 +12,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/SetgeliinMod/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "static/media/home.svg": "/SetgeliinMod/static/media/home.9ff7573e4c4a12d30105da3e0e069be4.svg",
     "index.html": "/SetgeliinMod/index.html",
-    "main.ed9d7841.css.map": "/SetgeliinMod/static/css/main.ed9d7841.css.map",
+    "main.7fa7ffaf.css.map": "/SetgeliinMod/static/css/main.7fa7ffaf.css.map",
     "main.43b05a33.js.map": "/SetgeliinMod/static/js/main.43b05a33.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed9d7841.css",
+    "static/css/main.7fa7ffaf.css",
     "static/js/main.43b05a33.js"
   ]
 }
