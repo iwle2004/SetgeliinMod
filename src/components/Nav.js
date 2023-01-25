@@ -7,9 +7,6 @@ import "./Nav.css";
 
 
 
-
-
-
 function Na() {
 
 
@@ -20,7 +17,7 @@ function Na() {
     <Navbar sticky='top' bg="white" expand="lg">
       <Container>
         <Navbar.Brand href="#home">
-            <img id='img' src={Logo}></img>
+            <img id='img-brand' src={Logo}></img>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

@@ -1,7 +1,7 @@
 import React from 'react';
 import { MDBFooter, MDBContainer, MDBRow, MDBCol, MDBIcon } from 'mdb-react-ui-kit';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {brands} from '@fortawesome/fontawesome-svg-core/import.macro'
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+// import {brands} from '@fortawesome/fontawesome-svg-core/import.macro'
 import cga from '../images/My project.jpg'
 
 
@@ -16,16 +16,13 @@ export default function Footer() {
 
         <div>
           <a href='' className='me-4 text-reset'>
-            <FontAwesomeIcon icon={brands('facebook')} />
+          <MDBIcon  icon="facebook-f" />
           </a>
           <a href='' className='me-4 text-reset'>
-            <FontAwesomeIcon icon={brands('instagram')} />
+          <MDBIcon  icon="instagram" />
           </a>
           <a href='' className='me-4 text-reset'>
-            <FontAwesomeIcon icon={brands('youtube')} />
-          </a>
-          <a href='' className='me-4 text-reset'>
-            <FontAwesomeIcon icon={brands('google')} />
+          <MDBIcon icon="google" />
           </a>
         </div>
       </section>
