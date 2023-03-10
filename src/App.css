@@ -2,3 +2,14 @@
   html,body{
     overflow-x: hidden;
   }
+
+.btn {
+
+  color: #10D397 !important;
+  border-color: #10D397 !important; 
+
+}
+#img-brand {
+  height: 65px;
+  width: 65px;
+}

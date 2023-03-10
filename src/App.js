@@ -1,6 +1,5 @@
 import React, { useRef } from "react";
 import "./App.css";
-import "./components/Nav.css"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Logo from "./images/logo.png"
 import {Nav, Navbar, Container} from 'react-bootstrap';
@@ -9,25 +8,17 @@ import About from "./components/About";
 import About2 from "./components/About2";
 import About3 from "./components/About3";
 import Footer from "./components/Footer";
-
+import About15 from "./components/About1.5";
+import Bee from "./components/Bee";
+import Calendar from "./components/Calendar";
 
 
 function App() {
 
-  const home = useRef(null);
-  const about = useRef(null);
-  const contact = useRef(null);
-  
-  const scrollToSection = (elementRef) => {
-    console.log(elementRef);
-
-    window.scrollTo({
-      top: elementRef.current.offsetTop,
-      behavior: "smooth",
-    });
-  };
 
   return (
+  
+
     <>
     <Navbar sticky='top' bg="white" expand="lg">
       <Container>
@@ -38,9 +29,9 @@ function App() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="container-fluid">
           <Navbar.Collapse className="justify-content-end">
-                <Nav.Link onClick={() => scrollToSection(home)}>Нүүр</Nav.Link>
-                <Nav.Link onClick={() => scrollToSection(about)}>Бидний тухай</Nav.Link>
-                <Nav.Link onClick={() => scrollToSection(contact)}>Холбогдох</Nav.Link>
+                <Nav.Link >Нүүр</Nav.Link>
+                <Nav.Link >Бидний тухай</Nav.Link>
+                <Nav.Link >Холбогдох</Nav.Link>
                 <Nav.Link>Элсэх</Nav.Link>
                 <Nav.Link>
                     <button type="button" class="btn btn-outline ">Donation</button>
@@ -50,12 +41,16 @@ function App() {
         </Navbar.Collapse>
       </Container>
     </Navbar>
+
     <React.Fragment>
-      <Home ref={home}/>
-      <About ref={about}/>
+  
+      <Home />
+      <About15 />
+      <About />
+      <Bee />
       <About2 />
-      <About3 />
-      <Footer ref={contact}/>
+      <Calendar />
+      <Footer />
     </React.Fragment>
   
     </>

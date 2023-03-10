@@ -20,9 +20,9 @@ function Home () {
             <div className="home-cont">
                 <div data-aos="zoom-out-right"data-aos-duration="1000" className="home-1">
                     <h1 id="home-title">
-                        Эерэг өөрчлөлтөд хөтлөх
-                        <span> сайн дурын ажилд </span>
-                        таныг урьж байна.
+                        Хүн болгон хөгжиж 
+                        <span> хөгжсөн бүхэн </span>
+                        сэтгэлтэй байг.
                     </h1>
                 </div>
                 <div data-aos="zoom-out-left"data-aos-duration="1000" className="home-2">

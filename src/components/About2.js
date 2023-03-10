@@ -1,6 +1,8 @@
 import "./About2.css";
 import React from "react";
-import img2 from '../images/image 2.png'
+import img2 from '../images/IMG_1024.jpg'
+import img3 from '../images/IMG_6637.jpg'
+import img4 from '../images/IMG_6791.jpg'
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import Col from 'react-bootstrap/Col';
@@ -35,7 +37,7 @@ function About2 () {
                 <Col>
                     <Card data-aos="fade-down"
                     data-aos-duration="1000">
-                        <Card.Img variant="top" src={img2} />
+                        <Card.Img variant="top" src={img3} />
                         <Card.Body>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
@@ -49,7 +51,7 @@ function About2 () {
                 <Col>
                     <Card data-aos="fade-down-left"
                          data-aos-duration="1000">
-                        <Card.Img variant="top" src={img2} />
+                        <Card.Img variant="top" src={img4} />
                         <Card.Body>
                         <Card.Title>Card title</Card.Title>
                         <Card.Text>
