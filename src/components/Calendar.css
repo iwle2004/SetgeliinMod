@@ -39,7 +39,7 @@
     
 }
 
-
+ 
 .box {
     display: flex;
     
@@ -57,4 +57,18 @@
 }
 #calendar-text {
     text-align: center;
+}
+@media only screen and (max-width: 768px) {
+    #calendar-text {
+        font-size: 10px;
+    }
+    .box-cont-img-bot {
+        height: 10%;
+    }
+    .box-cont-img {
+        height: 10%;
+    }
+    .calendar {
+        justify-content: center;
+    }
 }

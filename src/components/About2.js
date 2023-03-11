@@ -34,7 +34,7 @@ function About2 () {
                         </Card.Body>
                     </Card>
                 </Col>
-                <Col>
+                <Col> 
                     <Card data-aos="fade-down"
                     data-aos-duration="1000">
                         <Card.Img variant="top" src={img3} />

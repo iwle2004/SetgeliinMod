@@ -9,7 +9,7 @@ import img6 from '../images/zuraas-deer.png'
 
 
 function Calendar () {
-    return ( 
+    return (  
     <section className="calendar">
         <div className="box-cont-text">
             <div className="box-text">

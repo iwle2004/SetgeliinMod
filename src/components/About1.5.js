@@ -6,7 +6,7 @@ import img from '../images/IMG_6482.jpg'
 function About15 () {
     return (  
     <section className="about15">
-        <div className="container">
+        <div className="container"> 
             <div className="about-cont15">
                 <div data-aos="fade-down-right"data-aos-duration="1000" className="about-21">
                     <h1 id="about-title">
