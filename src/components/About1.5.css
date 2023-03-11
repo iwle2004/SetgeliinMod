@@ -1,11 +1,11 @@
-.about-1 {
+.about-11 {
     width: 50%;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-left: 60px;
 }
-.about-2 {
+.about-21 {
     width: 50%;
     display: flex;
     justify-content: center;
@@ -18,11 +18,11 @@
 }
 
  
-.about {
+.about15 {
     
     height: 100vh; 
 }
-.about-cont {
+.about-cont15 {
     display: flex;
     flex-direction: row;
 }
@@ -43,15 +43,16 @@
 
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
-    .about-cont {
+    .about-cont15 {
         display: flex;
         flex-direction: column;
     }
-    .about-1 {
+    .about-11 {
         width: 100%;
         height: 50%;
+        margin-left: 0px;
     }
-    .about-2 {
+    .about-21 {
         width: 100%;
         height: 50%;
         padding-top: 40px;
@@ -67,15 +68,16 @@
     }
   }
   @media screen and (min-device-width: 768px) and (max-device-width: 1024px) { 
-    .about-cont {
+    .about-cont15 {
         display: flex;
         flex-direction: column;
     }
-    .about-1 {
+    .about-11 {
         width: 100%;
         height: 50%;
+        
     }
-    .about-2 {
+    .about-21 {
         width: 100%;
         height: 50%;
         padding-top: 40px;

@@ -3,7 +3,7 @@ import React from "react";
 import img from '../images/IMG_0005.JPG'
 
 
-function About () {
+function About () { 
     return ( 
     <section className="about">
         <div className="container">

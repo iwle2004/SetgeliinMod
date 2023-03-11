@@ -31,7 +31,7 @@ function Bee () {
                 
             </div>
             <div className="box-text2" data-aos="fade-up-left" data-aos-duration="1000">
-                <p id="bee-text">Хувь хүний хөгжил</p>
+                <p id="bee-text">Банк санхүү</p>
             </div>
         </div>
         </div>

@@ -32,8 +32,8 @@
     border: 5px;
     border-color: black;
     border-style: solid;
-    
     border-top-left-radius: 20px;
+    height: 80%;
 }
 .box-text2 {
     display: flex;
@@ -44,6 +44,7 @@
     border-color: black;
     border-style: solid;
     border-bottom-right-radius: 20px;
+    height: 80%;
 }
 .box-text-yellow1 {
     display: flex;
@@ -54,6 +55,7 @@
     border-color: #fac311;
     border-style: solid;
     border-bottom-left-radius: 20px;
+    height: 80%;
 }
 
 .box-text-yellow2 {
@@ -65,7 +67,7 @@
     border-color: #fac311;
     border-style: solid;
     border-top-right-radius: 20px;
-    
+    height: 80%;
 }
 .box {
     width: 100%;
