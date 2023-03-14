@@ -1,3 +1,7 @@
+#calendar-text span {
+    color: #10D397;
+}
+
 .calendar {
     height: 100vh;
     width: 100%;
