@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SetgeliinMod/precache-manifest.6150413dfa700159ecb69e6e44fe1fea.js"
+  "/SetgeliinMod/precache-manifest.5797a07baf162821f40d4a83d1e89b26.js"
 );
 
 workbox.clientsClaim();
