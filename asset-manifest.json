@@ -1,7 +1,7 @@
 {
   "main.css": "/SetgeliinMod/static/css/main.cd29c0a5.chunk.css",
-  "main.js": "/SetgeliinMod/static/js/main.410697e2.chunk.js",
-  "main.js.map": "/SetgeliinMod/static/js/main.410697e2.chunk.js.map",
+  "main.js": "/SetgeliinMod/static/js/main.bafa9135.chunk.js",
+  "main.js.map": "/SetgeliinMod/static/js/main.bafa9135.chunk.js.map",
   "static/css/1.a055daf4.chunk.css": "/SetgeliinMod/static/css/1.a055daf4.chunk.css",
   "static/js/1.b7acbf05.chunk.js": "/SetgeliinMod/static/js/1.b7acbf05.chunk.js",
   "static/js/1.b7acbf05.chunk.js.map": "/SetgeliinMod/static/js/1.b7acbf05.chunk.js.map",
@@ -19,6 +19,6 @@
   "static/css/main.cd29c0a5.chunk.css.map": "/SetgeliinMod/static/css/main.cd29c0a5.chunk.css.map",
   "static/css/1.a055daf4.chunk.css.map": "/SetgeliinMod/static/css/1.a055daf4.chunk.css.map",
   "index.html": "/SetgeliinMod/index.html",
-  "precache-manifest.5797a07baf162821f40d4a83d1e89b26.js": "/SetgeliinMod/precache-manifest.5797a07baf162821f40d4a83d1e89b26.js",
+  "precache-manifest.189e6572b27a85c261e88baffd24e285.js": "/SetgeliinMod/precache-manifest.189e6572b27a85c261e88baffd24e285.js",
   "service-worker.js": "/SetgeliinMod/service-worker.js"
 }

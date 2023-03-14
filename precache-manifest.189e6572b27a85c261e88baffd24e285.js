@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "410697e22beaf4f3b261",
+    "revision": "bafa91355c813d827604",
     "url": "/SetgeliinMod/static/css/main.cd29c0a5.chunk.css"
   },
   {
-    "revision": "410697e22beaf4f3b261",
-    "url": "/SetgeliinMod/static/js/main.410697e2.chunk.js"
+    "revision": "bafa91355c813d827604",
+    "url": "/SetgeliinMod/static/js/main.bafa9135.chunk.js"
   },
   {
     "revision": "b7acbf0540d9f0e3f692",
@@ -56,10 +56,6 @@ self.__precacheManifest = [
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/SetgeliinMod/static/media/fontawesome-webfont.674f50d2.eot"
-  },
-  {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -68,11 +64,15 @@ self.__precacheManifest = [
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/SetgeliinMod/static/media/fontawesome-webfont.674f50d2.eot"
+  },
+  {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "6aad27425a7b8681b10674ad0cf41f9a",
+    "revision": "02fbb6f079e010ec65c666a3a5ebb839",
     "url": "/SetgeliinMod/index.html"
   }
 ];
