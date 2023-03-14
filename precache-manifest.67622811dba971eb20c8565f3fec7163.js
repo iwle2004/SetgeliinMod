@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f40dca6d7b6cf35ec005",
-    "url": "/SetgeliinMod/static/css/main.44dc417d.chunk.css"
+    "revision": "b691b95e2d6de50d56a5",
+    "url": "/SetgeliinMod/static/css/main.7a00a0dd.chunk.css"
   },
   {
-    "revision": "f40dca6d7b6cf35ec005",
-    "url": "/SetgeliinMod/static/js/main.f40dca6d.chunk.js"
+    "revision": "b691b95e2d6de50d56a5",
+    "url": "/SetgeliinMod/static/js/main.b691b95e.chunk.js"
   },
   {
-    "revision": "dbc81e38bbb5f6f418b7",
+    "revision": "b7acbf0540d9f0e3f692",
     "url": "/SetgeliinMod/static/css/1.a055daf4.chunk.css"
   },
   {
-    "revision": "dbc81e38bbb5f6f418b7",
-    "url": "/SetgeliinMod/static/js/1.dbc81e38.chunk.js"
+    "revision": "b7acbf0540d9f0e3f692",
+    "url": "/SetgeliinMod/static/js/1.b7acbf05.chunk.js"
   },
   {
     "revision": "0cd3043ac695b22d4278",
@@ -32,16 +32,16 @@ self.__precacheManifest = [
     "url": "/SetgeliinMod/static/media/IMG_0005.1b66e27a.JPG"
   },
   {
-    "revision": "2a109e00288e430c8d6bdfa987e1a62f",
-    "url": "/SetgeliinMod/static/media/IMG_1024.2a109e00.jpg"
+    "revision": "c15603943325324db1f16625b774cdaf",
+    "url": "/SetgeliinMod/static/media/IMG_5417.c1560394.jpg"
   },
   {
-    "revision": "1ddf52d5fc079772343056f9766afa86",
-    "url": "/SetgeliinMod/static/media/IMG_6637.1ddf52d5.jpg"
+    "revision": "08b66e4cb0f78b5c1b410533df517387",
+    "url": "/SetgeliinMod/static/media/IMG_5423.08b66e4c.jpg"
   },
   {
-    "revision": "5057e138a2d42aedef2d80dfab102ad3",
-    "url": "/SetgeliinMod/static/media/IMG_6791.5057e138.jpg"
+    "revision": "df009beeac0318fc1134d1f4b5e8e5b2",
+    "url": "/SetgeliinMod/static/media/IMG_6859.df009bee.jpg"
   },
   {
     "revision": "e98153d518f3d809ccbbe2a3794c490c",
@@ -52,6 +52,10 @@ self.__precacheManifest = [
     "url": "/SetgeliinMod/static/media/IMG_0004.a4999a13.png"
   },
   {
+    "revision": "af7ae505a9eed503f8b8e6982036873e",
+    "url": "/SetgeliinMod/static/media/fontawesome-webfont.af7ae505.woff2"
+  },
+  {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.674f50d2.eot"
   },
@@ -60,19 +64,15 @@ self.__precacheManifest = [
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "af7ae505a9eed503f8b8e6982036873e",
-    "url": "/SetgeliinMod/static/media/fontawesome-webfont.af7ae505.woff2"
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/SetgeliinMod/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/SetgeliinMod/static/media/fontawesome-webfont.b06871f2.ttf"
-  },
-  {
-    "revision": "ec9353a46b44141b8139b4bbc02be79d",
+    "revision": "a6d202de9dfbcbd66a89e4593fb7f0c1",
     "url": "/SetgeliinMod/index.html"
   }
 ];
