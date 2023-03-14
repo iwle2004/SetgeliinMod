@@ -32,7 +32,7 @@ function App() {
                 <Nav.Link >Нүүр</Nav.Link>
                 <Nav.Link >Бидний тухай</Nav.Link>
                 <Nav.Link >Холбогдох</Nav.Link>
-                <Nav.Link>Элсэх</Nav.Link>
+                <Nav.Link href="https://docs.google.com/forms/d/e/1FAIpQLSc33PPlgdUDeG6kneXjMkoppfE4ZTpkv7GTPX3J6NVYWcFetQ/viewform?usp=sf_link" target="_blank">Элсэх</Nav.Link>
                 <Nav.Link>
                     <button type="button" class="btn btn-outline ">Donation</button>
                 </Nav.Link>
