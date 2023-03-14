@@ -87,3 +87,20 @@
         justify-content: center;
     }
 }
+@media screen and (min-device-width: 768px) and (max-device-width: 1024px) { 
+     #calendar-text {
+        font-size: 13px;
+    }
+    .box-cont-img-bot {
+        height: 10%;
+    }
+    .box-cont-img {
+        height: 10%;
+    }
+    .calendar {
+        justify-content: center;
+    }
+    .box-text-with {
+        height: 70%;
+    }
+}
