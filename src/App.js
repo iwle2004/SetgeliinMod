@@ -43,7 +43,6 @@ function App() {
     </Navbar>
 
     <React.Fragment>
-  
       <Home />
       <About15 />
       <About />
