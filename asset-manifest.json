@@ -1,7 +1,7 @@
 {
-  "main.css": "/SetgeliinMod/static/css/main.250ee5e0.chunk.css",
-  "main.js": "/SetgeliinMod/static/js/main.f1fd81d9.chunk.js",
-  "main.js.map": "/SetgeliinMod/static/js/main.f1fd81d9.chunk.js.map",
+  "main.css": "/SetgeliinMod/static/css/main.44dc417d.chunk.css",
+  "main.js": "/SetgeliinMod/static/js/main.f40dca6d.chunk.js",
+  "main.js.map": "/SetgeliinMod/static/js/main.f40dca6d.chunk.js.map",
   "static/css/1.a055daf4.chunk.css": "/SetgeliinMod/static/css/1.a055daf4.chunk.css",
   "static/js/1.dbc81e38.chunk.js": "/SetgeliinMod/static/js/1.dbc81e38.chunk.js",
   "static/js/1.dbc81e38.chunk.js.map": "/SetgeliinMod/static/js/1.dbc81e38.chunk.js.map",
@@ -15,10 +15,10 @@
   "static/media/IMG_6791.jpg": "/SetgeliinMod/static/media/IMG_6791.5057e138.jpg",
   "static/media/IMG_6482.jpg": "/SetgeliinMod/static/media/IMG_6482.e98153d5.jpg",
   "static/media/IMG_0004.png": "/SetgeliinMod/static/media/IMG_0004.a4999a13.png",
-  "static/media/font-awesome.min.css": "/SetgeliinMod/static/media/fontawesome-webfont.912ec66d.svg",
-  "static/css/main.250ee5e0.chunk.css.map": "/SetgeliinMod/static/css/main.250ee5e0.chunk.css.map",
+  "static/media/font-awesome.min.css": "/SetgeliinMod/static/media/fontawesome-webfont.b06871f2.ttf",
   "static/css/1.a055daf4.chunk.css.map": "/SetgeliinMod/static/css/1.a055daf4.chunk.css.map",
+  "static/css/main.44dc417d.chunk.css.map": "/SetgeliinMod/static/css/main.44dc417d.chunk.css.map",
   "index.html": "/SetgeliinMod/index.html",
-  "precache-manifest.741e649d10c563ab11408dde6995bdab.js": "/SetgeliinMod/precache-manifest.741e649d10c563ab11408dde6995bdab.js",
+  "precache-manifest.8609fd6c3d3eda889957efb99d086497.js": "/SetgeliinMod/precache-manifest.8609fd6c3d3eda889957efb99d086497.js",
   "service-worker.js": "/SetgeliinMod/service-worker.js"
 }
