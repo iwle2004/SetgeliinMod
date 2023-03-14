@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "bafa91355c813d827604",
-    "url": "/SetgeliinMod/static/css/main.cd29c0a5.chunk.css"
+    "revision": "449bccda55e09adb8a87",
+    "url": "/SetgeliinMod/static/css/main.1836a80f.chunk.css"
   },
   {
-    "revision": "bafa91355c813d827604",
-    "url": "/SetgeliinMod/static/js/main.bafa9135.chunk.js"
+    "revision": "449bccda55e09adb8a87",
+    "url": "/SetgeliinMod/static/js/main.449bccda.chunk.js"
   },
   {
-    "revision": "b7acbf0540d9f0e3f692",
-    "url": "/SetgeliinMod/static/css/1.a055daf4.chunk.css"
+    "revision": "2b5ff4c61754bb215273",
+    "url": "/SetgeliinMod/static/css/1.bcbdfb2d.chunk.css"
   },
   {
-    "revision": "b7acbf0540d9f0e3f692",
-    "url": "/SetgeliinMod/static/js/1.b7acbf05.chunk.js"
+    "revision": "2b5ff4c61754bb215273",
+    "url": "/SetgeliinMod/static/js/1.2b5ff4c6.chunk.js"
   },
   {
     "revision": "0cd3043ac695b22d4278",
@@ -44,6 +44,10 @@ self.__precacheManifest = [
     "url": "/SetgeliinMod/static/media/IMG_6859.df009bee.jpg"
   },
   {
+    "revision": "c5f0a3b36a43a75803240b8c1f36b101",
+    "url": "/SetgeliinMod/static/media/cga.c5f0a3b3.jpeg"
+  },
+  {
     "revision": "e98153d518f3d809ccbbe2a3794c490c",
     "url": "/SetgeliinMod/static/media/IMG_6482.e98153d5.jpg"
   },
@@ -56,23 +60,23 @@ self.__precacheManifest = [
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.af7ae505.woff2"
   },
   {
-    "revision": "fee66e712a8a08eef5805a46892932ad",
-    "url": "/SetgeliinMod/static/media/fontawesome-webfont.fee66e71.woff"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/SetgeliinMod/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "b06871f281fee6b241d60582ae9369b9",
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/SetgeliinMod/static/media/fontawesome-webfont.674f50d2.eot"
+    "revision": "fee66e712a8a08eef5805a46892932ad",
+    "url": "/SetgeliinMod/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
     "revision": "912ec66d7572ff821749319396470bde",
     "url": "/SetgeliinMod/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "02fbb6f079e010ec65c666a3a5ebb839",
+    "revision": "dfdff83bbef7bc7f6be664772d1ebd30",
     "url": "/SetgeliinMod/index.html"
   }
 ];
