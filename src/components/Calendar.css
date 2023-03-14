@@ -59,6 +59,17 @@
     color: #97999B;
     font-size: 20px;
 }
+.box-text-with {
+    width: 270px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #97999B;
+    font-size: 20px;
+    border: solid;
+    border-color: #10D397;
+    border-radius: 20%;
+}
 #calendar-text {
     text-align: center;
 }
