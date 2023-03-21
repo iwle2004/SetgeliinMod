@@ -94,7 +94,7 @@ function Calendar () {
                 
             </div>
             <div className="box-text-with">
-            <p id="calendar-text"> <span>03.16</span> Мэтгэлцээн ярих ур чадварын тэмцээн</p>
+            <p id="calendar-text"> <span>03.17</span> Мэтгэлцээн ярих ур чадварын тэмцээн</p>
             </div>
             <div className="box-text-with">
             <p id="calendar-text"><span>03.29</span> Хүүхдийн урлан бүтээх төвтэй хамтран Бавуугийн Цэрэндоржийн нэрэмжит зургийн уралдаан</p>

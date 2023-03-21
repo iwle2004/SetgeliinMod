@@ -65,6 +65,10 @@ export default function Footer() {
                 bolderdenez40@gmail.com
               </p>
               <p>
+                <MDBIcon icon="envelope" className="me-3" />
+                bilguudei453@gmail.com
+              </p>
+              <p>
               <MDBIcon icon="phone" className='me-3' />+976 94162323
               </p>
               <p>
